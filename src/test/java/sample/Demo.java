@@ -7,6 +7,7 @@ public class Demo {
 	public void demo() {
 		// TODO Auto-generated method stub
     System.out.println("Demo");
+    System.out.println("Checking changes");
 	}
 
 }
